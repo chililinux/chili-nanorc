@@ -1,7 +1,7 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
+pkgname=chili-nanorc
+pkgdesc="Improved Nano Syntax Highlighting Files"
 #depends=('')
 #makedepends=('')
 #optdepends=('')
